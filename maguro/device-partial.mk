@@ -16,4 +16,6 @@
 PRODUCT_PACKAGES := \
     fRom \
     libsec-ril \
-    libsecril-client
+    libsecril-client \
+    sirfgps \
+    gps.omap4
