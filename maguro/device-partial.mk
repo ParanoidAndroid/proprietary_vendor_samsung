@@ -18,4 +18,11 @@ PRODUCT_PACKAGES := \
     libsec-ril \
     libsecril-client \
     sirfgps \
-    gps.omap4
+    gps.omap4 \
+    smc_normal_world_android_cfg \
+    smc_pa_wvdrm \
+    libdrmwvmplugin \
+    libWVStreamControlAPI_L1 \
+    libwvdrm_L1 \
+    libwvm
+    
