@@ -17,6 +17,7 @@ PRODUCT_PACKAGES := \
     fRom \
     libsec-ril \
     libsecril-client \
+    gps \
     sirfgps \
     gps.omap4 \
     smc_normal_world_android_cfg \
